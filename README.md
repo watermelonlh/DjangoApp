@@ -1,0 +1,4 @@
+DjangoApp
+=========
+
+django start up
